@@ -8,7 +8,7 @@ pool:
   vmImage: "windows-latest"
 
 pr:
-- gh-readonly-queue/{main}
+- main
 
 
 
