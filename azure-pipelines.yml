@@ -10,6 +10,7 @@ trigger:
 
 pr:
 - gh-readonly-queue/main
+- main
 
 pool:
   vmImage: ubuntu-latest
