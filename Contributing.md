@@ -1,8 +1,8 @@
-# Contributing
+ # Contributing
 
 [![Gitter chat][gitter-image]][gitter-url]
 
-[gitter-url]: https://gitter.im/tldr-pages/tldr
+[gitter-url]: https://git   ter.im/tldr-pages/tldr
 [gitter-image]: https://img.shields.io/badge/chat-on_gitter-deeppink
 
 Contributions to this project are [most welcome]!
